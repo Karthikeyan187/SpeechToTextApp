@@ -31,6 +31,6 @@ This is an Android application that converts speech input to text in real-time. 
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Speech2Text.git
+git clone https://github.com/Karthikeyan187/SpeechToTextApp.git
 ```
 
